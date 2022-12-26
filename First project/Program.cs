@@ -56,7 +56,6 @@ namespace Lesson1
             }
             Console.ForegroundColor=ConsoleColor.DarkGreen;
             Console.WriteLine(num1.ToString() + " " + choice + " " + num2.ToString() + " = " + answer.ToString());
-            Console.ReadLine();
 
         }
 
